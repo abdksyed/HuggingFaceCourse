@@ -1,0 +1,2 @@
+# HuggingFaceCourse
+Learning Hugging Face
